@@ -4,6 +4,7 @@
 # Exo 2
 
 # Exo2bis
+### fix release
 
 
 [![Build Status](https://travis-ci.org/spring-petclinic/spring-framework-petclinic.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-framework-petclinic/) 
